@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(0, 255, 81);
+}
+.copy_right_footer
+{
+    background-color: black;
+    font-style: italic;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    color: aqua;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aqua;
+}
